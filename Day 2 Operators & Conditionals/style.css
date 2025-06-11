@@ -1,0 +1,23 @@
+.price-calculator {
+  max-width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.price-calculator input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+.price-calculator button {
+  padding: 8px 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
