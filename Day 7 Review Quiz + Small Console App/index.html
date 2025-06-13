@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 7</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>Product Inventory</h2>
+
+      <div class="form">
+        <input type="text" id="productName" placeholder="Product Name" />
+        <input type="number" id="productPrice" placeholder="Price" />
+        <input type="number" id="productQuantity" placeholder="Quantity" />
+        <input type="text" id="productCategory" placeholder="Category" />
+        <button id="addProductBtn">Add Product</button>
+      </div>
+
+      <div class="actions">
+        <input
+          type="text"
+          id="filterCategory"
+          placeholder="Filter by Category"
+        />
+        <button id="filterBtn">Filter</button>
+        <button id="showAllBtn">Show All</button>
+        <button id="totalValueBtn">Total Inventory Value</button>
+        <button id="mostValuableBtn">Most Valuable Product</button>
+      </div>
+
+      <div class="output" id="outputBox"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
