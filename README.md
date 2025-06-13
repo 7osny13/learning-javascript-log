@@ -16,7 +16,7 @@
 | 1    | 4   | Arrays Basics | ✅   Completed |  |
 | 1    | 5   | Arrays Advanced | ✅   Completed |  |
 | 1    | 6   | Objects & Destructuring | ✅   Completed |  |
-| 1    | 7   | Review Quiz + Small Console App | ⬜ Not Started |  |
+| 1    | 7   | Review Quiz + Small Console App | ✅ Not Started |  |
 | 2    | 1   | Loops & Iteration | ⬜ Not Started |  |
 | 2    | 2   | DOM Selection | ⬜ Not Started |  |
 | 2    | 3   | Event Handling | ⬜ Not Started |  |
