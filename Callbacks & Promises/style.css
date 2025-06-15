@@ -1,0 +1,37 @@
+/* CSS */
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+  padding: 10px 20px;
+  background: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.joke-box {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: #eee;
+  border-left: 4px solid #0077ff;
+  transition: all 0.3s ease;
+}
+
+.hidden {
+  display: none;
+}
