@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Portal Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <div class="container">
+    <h1>Student Portal</h1>
+    
+    <section class="form-section">
+      <input type="text" id="studentName" placeholder="Name" />
+      <input type="email" id="studentEmail" placeholder="Email" />
+      <input type="number" id="studentScore" placeholder="Score (0-100)" />
+      <input type="text" id="studentCourse" placeholder="Course" />
+      <button id="addStudentBtn">Add Student</button>
+    </section>
+
+    <section class="actions">
+      <input type="text" id="filterCourse" placeholder="Filter by course" />
+      <button id="filterBtn">Filter</button>
+      <button id="topStudentBtn">Top Student</button>
+      <button id="avgScoreBtn">Average Score</button>
+      <button id="showAllBtn">Show All</button>
+      <button id="themeToggleBtn">Toggle Theme</button>
+    </section>
+
+    <pre id="outputBox"></pre>
+    <script src="script.js"></script>
+</body>
+</html>

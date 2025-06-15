@@ -17,13 +17,13 @@
 | 1    | 5   | Arrays Advanced | ✅   Completed |  |
 | 1    | 6   | Objects & Destructuring | ✅   Completed |  |
 | 1    | 7   | Review Quiz + Small Console App | ✅ Completed |  |
-| 2    | 1   | Loops & Iteration | ⬜ Not Started |  |
-| 2    | 2   | DOM Selection | ⬜ Not Started |  |
-| 2    | 3   | Event Handling | ⬜ Not Started |  |
-| 2    | 4   | DOM Projects | ⬜ Not Started |  |
-| 2    | 5   | Form Handling & Validation | ⬜ Not Started |  |
-| 2    | 6   | DOM Project Practice | ⬜ Not Started |  |
-| 2    | 7   | Recap & Polish | ⬜ Not Started |  |
+| 2    | 1   | Loops & Iteration | ✅ Completed |  |
+| 2    | 2   | DOM Selection | ✅ Completed|  |
+| 2    | 3   | Event Handling | ✅ Completed|  |
+| 2    | 4   | DOM Projects | ✅ Completed |  |
+| 2    | 5   | Form Handling & Validation | ✅ Completed |  |
+| 2    | 6   | DOM Project Practice | ✅ Completed |  |
+| 2    | 7   | Recap & Polish | ✅ Completed |  |
 | 3    | 1   | Callbacks & Promises | ⬜ Not Started |  |
 | 3    | 2   | Async/Await | ⬜ Not Started |  |
 | 3    | 3   | Advanced Arrays Recap | ⬜ Not Started |  |
