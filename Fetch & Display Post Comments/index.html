@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch & Display Post Comments</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Post Comments Viewer</h1>
+
+        <input type="number" id="postIdInput" placeholder="Enter Post ID (1–100)" />
+        <button id="getCommentsBtn">Get Comments</button>
+
+        <p id="errorMsg" class="error"></p>
+        <p id="loading" class="loading hidden">Loading comments...</p>
+
+        <div id="commentsContainer" class="comments hidden "></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
