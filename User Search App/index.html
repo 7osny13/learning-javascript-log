@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>User Lookup</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>User Info Lookup</h1>
+    <input type="number" id="userIdInput" placeholder="Enter User ID (1-10)" />
+    <button id="getUserBtn">Get User Info</button>
+    <p id="errorMsg" class="error"></p>
+
+    <div id="loading" class="hidden">Loading...</div>
+
+    <div id="userCard" class="user-card hidden">
+      <h2 id="name"></h2>
+      <p id="email"></p>
+      <p id="address"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
