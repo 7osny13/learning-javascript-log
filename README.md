@@ -25,7 +25,7 @@
 | 2    | 6   | DOM Project Practice | ✅ Completed |  |
 | 2    | 7   | Recap & Polish | ✅ Completed |  |
 | 3    | 1   | Callbacks & Promises | ✅ Completed |  |
-| 3    | 2   | Async/Await | ⬜ Not Started |  |
+| 3    | 2   | Async/Await | ✅ Completed |  |
 | 3    | 3   | Advanced Arrays Recap | ⬜ Not Started |  |
 | 3    | 4   | ES6+: Spread, Rest, Template Literals | ⬜ Not Started |  |
 | 3    | 5   | Modules | ⬜ Not Started |  |
