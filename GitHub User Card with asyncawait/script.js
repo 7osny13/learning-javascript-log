@@ -10,7 +10,7 @@ const url = `https://api.github.com/users`;
 
 
 async function ShowGitHubInfo() {
-    const token = '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';
+    const token = 'personal token';
     try{
         let response = await fetch(`${url}/${githubUsername.value}`,{
             headers:{
