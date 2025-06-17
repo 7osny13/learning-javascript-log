@@ -27,7 +27,7 @@
 | 3    | 1   | Callbacks & Promises | ✅ Completed |  |
 | 3    | 2   | Async/Await | ✅ Completed |  |
 | 3    | 3   | Advanced Async/Await Recap | ✅ Completed |  |
-| 3    | 4   | ES6+: Spread, Rest, Template Literals | ⬜ Not Started |  |
+| 3    | 4   | ES6+: Spread, Rest, Template Literals | ✅ Completed |  |
 | 3    | 5   | Modules | ⬜ Not Started |  |
 | 3    | 6   | LocalStorage | ⬜ Not Started |  |
 | 3    | 7   | Build: Weather App using Fetch | ⬜ Not Started |  |
