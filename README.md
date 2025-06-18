@@ -30,7 +30,7 @@
 | 3    | 4   | ES6+: Spread, Rest, Template Literals | ✅ Completed |  |
 | 3    | 5   | Modules | ✅ Completed |  |
 | 3    | 6   | LocalStorage | ✅ Completed |  |
-| 3    | 7   | Build: Weather App using Fetch | ⬜ Not Started |  |
+| 3    | 7   | Build: Weather App using Fetch | ✅ Completed |  |
 | 4    | 1   | Prototypes & this | ⬜ Not Started |  |
 | 4    | 2   | Classes & Constructors | ⬜ Not Started |  |
 | 4    | 3   | Functional JS Patterns | ⬜ Not Started |  |
